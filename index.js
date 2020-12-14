@@ -75,4 +75,4 @@ document
   .querySelector("#calculator .clear")
   .addEventListener("click", () => (calculatorScreen.innerHTML = ""));
 
-// Implement here the event when the = key is pressed
+// Implement here the event when the = key is presseds
