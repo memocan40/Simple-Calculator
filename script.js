@@ -1,3 +1,4 @@
+ /*
  - history: once the = key is pressed, it keeps the last value in
  *            memory in an array
  * - equals: returns the value (thanks to an 'eval' function)
